@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Itsrenata2/FrontEnd-Mentor-Huddle-Landing-Page)
-- Live Site URL: [Add live site URL here](https://front-end-mentor-huddle-landing-page-xi.vercel.app/)
+- Solution URL: [GitHub Repository](https://github.com/Itsrenata2/FrontEnd-Mentor-Huddle-Landing-Page)
+- Live Site URL: [FrontEnd Mentor | Huddle Landing Page](https://front-end-mentor-huddle-landing-page-xi.vercel.app/)
 
 ## My process
 

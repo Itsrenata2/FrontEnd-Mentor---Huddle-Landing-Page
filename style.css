@@ -14,6 +14,7 @@ body {
 
 .huddle-logo {
     width: 8rem;
+    margin-bottom: 3rem;
 }
 
 #content {
@@ -23,7 +24,7 @@ body {
 
 .mockup-img {
     width: 100%;
-    margin: 4rem auto;
+    margin: 2rem auto;
 }
 
 #landind-page-text {
